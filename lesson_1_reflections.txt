@@ -1,0 +1,11 @@
+When you can see what you have done in the past in an easy way, you can fix bugs easily and check the evolution of your work when you need to know what you where trying to do in the past.
+
+It's good to control when you create commits because if there is no sense in the group of modifications committed, then you can't follow what's going on in your code.
+
+Because you cannot work in more than one file at a time.
+
+Git log allows me to check the commit history of my project, and git diff allows me to see differences among commits just using the commit identifier.
+
+What makes me more confident to make changes is the fact that even if I broke the code, I can compare it with previous versions to find the bug, and I will be always able to repare it.
+
+I want git to be more productive in my work being able to work more safely.
