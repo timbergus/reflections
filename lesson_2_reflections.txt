@@ -1,3 +1,13 @@
 You create a hidden file with the infrastructure for the repository.
 
 It's a temporal place where you can choose what files goes to the repo each time.
+
+You can grout files for every logic change before commiting.
+
+In a lot of situations, for example when I need to test a new code but I don't want to break the existing one.
+
+The diagrams helps you to know the paths your development is following.
+
+We have all the changes in both branches in master. And we can access all the commits of both branches.
+
+Automatic merges don't know what your code looks like and can create conflicts. Manual merges helps to avoid conflicts but are more complicated.
