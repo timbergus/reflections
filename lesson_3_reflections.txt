@@ -1,3 +1,5 @@
 So here I am!
 
 Having a remote repo is cool because you ca colaborate with others in the same project.
+
+Pulling changes manually you have a better control of your workflow.
